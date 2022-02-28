@@ -54,7 +54,7 @@
   font-size: 40px;
 }
 .color {
-  color: rgba(69, 10, 230, 0.993);
+  color: #ff5959;
 }
 .cards {
   display: flex;
@@ -108,6 +108,8 @@ footer {
 .content {
   color: #ffffff;
 }
-.content h1 {
+.content h1,
+span {
   text-align: center;
+  font-family: "Lobster", cursive;
 }
