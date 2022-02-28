@@ -41,3 +41,40 @@
   color: white;
   border-radius: 10px;
 }
+.sec-2 {
+  margin-top: 50px;
+}
+.cards-container {
+  max-width: 65%;
+  margin: 0 auto;
+}
+.section-title {
+  text-align: center;
+  font-size: 40px;
+}
+.color {
+  color: rgba(69, 10, 230, 0.993);
+}
+.cards {
+  display: flex;
+  justify-content: space-around;
+
+  margin: 50px 0;
+}
+.cards img {
+  width: 200px;
+}
+.card {
+  width: 350px;
+  padding: 30px;
+  border-radius: 15px;
+}
+.card-1 {
+  background-color: #4f9da61f;
+}
+.card-2 {
+  background-color: #ff595923;
+}
+.card-3 {
+  background-color: #fff4d6;
+}
