@@ -37,9 +37,10 @@
 .default-btn {
   text-decoration: none;
   padding: 10px;
-  background-color: orangered;
+  background-color: #ff5959;
   color: white;
   border-radius: 10px;
+  width: 200px;
 }
 .sec-2 {
   margin-top: 50px;
@@ -77,4 +78,36 @@
 }
 .card-3 {
   background-color: #fff4d6;
+}
+.sec-3 {
+  max-width: 80%;
+  margin: 0 auto;
+}
+.sec-3 img {
+  width: 400px;
+}
+.part-1,
+.part-2 {
+  display: flex;
+  padding: 20px;
+}
+.office-info {
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+footer {
+  height: 177px;
+  background-color: #0b0d17;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.content {
+  color: #ffffff;
+}
+.content h1 {
+  text-align: center;
 }
